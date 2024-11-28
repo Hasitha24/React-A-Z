@@ -1,4 +1,6 @@
-
+//External styling (used in simple projects)
+//module styling (Used in large projects)
+//Inline styling (Used in minimal simple projects)
 
 function Button() {
 
