@@ -1,6 +1,10 @@
 
+import Button from "./Button/Button.jsx";
+
 function App(){
-  return();
+  return(
+    <Button></Button>
+  );
 }
 
 export default App
