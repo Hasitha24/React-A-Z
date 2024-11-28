@@ -1,12 +1,6 @@
-import Card from "./Card.jsx";
-
 
 function App(){
-  return(
-<>
-<Card/>
-
-</>
-  );
+  return();
 }
+
 export default App
