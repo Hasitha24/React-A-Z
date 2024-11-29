@@ -1,14 +1,14 @@
 // Card Component
-import Card from "./Card.jsx";
+// import Card from "./Card.jsx";
 
 
-function App(){
-  return(
-<>
-<Card/>
-<Card/>
-<Card/>
-</>
-  );
-}
-export default App
+// function App(){
+//   return(
+// <>
+// <Card/>
+// <Card/>
+// <Card/>
+// </>
+//   );
+// }
+// export default App
