@@ -16,6 +16,7 @@ function App(){
     <Student name="Chenuthi" age={8} isStudent={true}></Student>
     <Student name="Thiveiyn" age={5}></Student>
     <Student name="Hasitha"></Student>
+    <Student></Student>
     </>
   );
 }
